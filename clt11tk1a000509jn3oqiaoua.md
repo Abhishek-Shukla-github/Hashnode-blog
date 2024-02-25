@@ -1,6 +1,6 @@
 ---
 title: "Knowing JS: Execution Context and Code Execution"
-seoTitle: "Knowing JS"
+seoTitle: "Knowing JS: Execution Context and Code Execution"
 seoDescription: "Knowing JS is a series on JS fundamentals.
 In this blog we understand the Execution Context and how it's crucial to JavaScript"
 datePublished: Sun Feb 25 2024 05:07:38 GMT+0000 (Coordinated Universal Time)
