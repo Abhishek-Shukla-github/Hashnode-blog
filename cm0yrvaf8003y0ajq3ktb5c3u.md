@@ -1,6 +1,6 @@
 ---
 title: "Creating a Promise.any() polyfill"
-seoTitle: "Promise.any() Polyfill Guide"
+seoTitle: "Knowing JS - Promise.any() Polyfill Guide"
 seoDescription: "Learn how to create a Promise.any() polyfill to handle promise aggregation effectively"
 datePublished: Thu Sep 12 2024 04:11:09 GMT+0000 (Coordinated Universal Time)
 cuid: cm0yrvaf8003y0ajq3ktb5c3u
