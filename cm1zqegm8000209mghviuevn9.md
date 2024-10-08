@@ -12,9 +12,9 @@ tags: interview, js, javascript, frontend, frontend-development
 
 Problem Link: [https://bigfrontend.dev/problem/find-corresponding-node-in-two-identical-DOM-tree](https://bigfrontend.dev/problem/find-corresponding-node-in-two-identical-DOM-tree)
 
-DOM traversal are one of the crucial aspects for any Frontend Interview especially in the top tech companies.
+DOM traversal is one of the crucial aspects for any Frontend Interview especially in the top tech companies.
 
-However it’s also important from the conceptual Point of View and albeit rare that you have to manually change a DOM Node , still the understanding of the DOM Tree helps you solidify the internal working of the Frontend frameworks like React, Vue, etc.
+However it’s also important from the conceptual Point of View and albeit rare that you have to manually change a DOM Node , still the understanding of the DOM Tree helps you solidify the internal workings of the frontend frameworks like React, Vue, etc.
 
 In this problem we’ll find the corresponding node in 2 identical trees.
 
