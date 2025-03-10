@@ -194,7 +194,7 @@ const fetchPhotos = useCallback(async () => {
 
 Below is how the whole `VirtualizedList` component would like:
 
-<iframe src="https://codesandbox.io/embed/2562f4?view=editor+%2B+preview&amp;module=%2Fsrc%2FVirtualizedList.js" style="width:100%;height:500px;border:0;border-radius:4px;overflow:hidden" sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"></iframe>
+<iframe src="https://codesandbox.io/embed/2562f4?view=editor+%2B+preview&module=%2Fsrc%2FVirtualizedList.js" style="width:100%;height:500px;border:0;border-radius:4px;overflow:hidden" sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"></iframe>
 
 ### Performance Analysis
 
@@ -217,6 +217,8 @@ We observe a significant lesser usage of memory
 We observe a significantly lesser TBT and overall increased performance along with pruning the excess DOM nodes
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1741567757298/9143393b-6b0f-4cfb-bde2-eaff4877c5d0.png align="center")
+
+## Performance Comparison
 
 Ok, so there’s a lot of numbers floating around, let’s get it altogether, after all that’s what a good blog should conclude with!
 
