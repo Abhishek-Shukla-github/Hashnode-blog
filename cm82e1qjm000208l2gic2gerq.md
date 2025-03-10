@@ -5,7 +5,7 @@ seoDescription: "Learn how to optimize large data rendering in React using virtu
 datePublished: Mon Mar 10 2025 01:33:16 GMT+0000 (Coordinated Universal Time)
 cuid: cm82e1qjm000208l2gic2gerq
 slug: optimizing-large-data-rendering-in-react-with-virtualization
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1741570386350/d16de29e-9d26-47fd-b641-d4cec364a755.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1741570778868/3c9a77ea-1293-4df1-9742-e7a264a92da3.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1741570275362/56db94c5-bb20-4a4d-b344-d32fb7999d8a.jpeg
 tags: interview, js, javascript, nodejs, reactjs, ui, frontend-development
 
